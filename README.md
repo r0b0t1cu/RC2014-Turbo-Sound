@@ -33,9 +33,18 @@ TSPLAYER is the companion CP/M/RomWBW PT3 player: [r0b0t1cu/TSPLAYER](https://gi
 | [`docs/ibom.html`](docs/ibom.html) | Interactive bill of materials |
 | [`docs/JUMPER_SETTINGS.md`](docs/JUMPER_SETTINGS.md) | Address, mode, clock, and connector notes |
 
+
 ## Fabrication files
 
 Generated files are in [`production/2026-11-07-21-17-36/`](production/2026-11-07-21-17-36/): [BOM](production/2026-11-07-21-17-36/RC2014-Turbo-Sound.kicad_pcb_bom.csv), [component positions](production/2026-11-07-21-17-36/RC2014-Turbo-Sound.kicad_pcb_positions.csv), [IPC netlist](production/2026-11-07-21-17-36/RC2014-Turbo-Sound.kicad_pcb_netlist.ipc), and [Gerber archive](production/2026-11-07-21-17-36/RC2014-Turbo-Sound.kicad_pcb_gerber.zip).
+
+If you enjoy my projects and would like to support my work, you can do so through PCBWay. You can also order the PCBs for this project directly from the link below. Every bit of support is appreciated!
+
+<p>
+  <a href="https://www.pcbway.com/project/shareproject/RC2014_Turbo_Sound_5364d1bb.html">
+    <img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCBWay — Support my projects" />
+  </a>
+</p>
 
 ## Design inspiration and credits
 
