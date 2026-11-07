@@ -1,0 +1,10 @@
+# KiCad local settings, locks, backups, and autosaves
+*.kicad_prl
+*.lck
+*.bak
+*-backups/
+_autosave-*
+fp-info-cache
+
+# KiCad local history is not part of the design release
+.history/

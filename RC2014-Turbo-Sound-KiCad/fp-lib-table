@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib
+    (name "RC_Bus_footprints")
+    (type "KiCad")
+    (uri "${KIPRJMOD}/RC_Bus_footprints.pretty")
+    (options "")
+    (descr "Project-specific RC bus connector footprints")
+  )
+)

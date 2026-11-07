@@ -1,0 +1,25 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,KiLib_Generator
+"C1, C11, C14, C2, C3, C4, C5, C6, C7, C8",10,100nF,C_Disc_D5.0mm_W2.5mm_P2.50mm,,,,tht,Unpolarized capacitor,capacitor/THT/other
+"C10, C9",2,10uF,CP_Radial_D5.0mm_P2.50mm,,,,tht,Polarized capacitor,capacitor/THT/other
+"C12, C13",2,22uF,CP_Radial_D5.0mm_P2.50mm,,,,tht,Polarized capacitor,capacitor/THT/other
+C15,1,100uF,CP_Radial_D5.0mm_P2.50mm,,,,tht,Polarized capacitor,capacitor/THT/other
+C16,1,47uF,CP_Radial_D5.0mm_P2.50mm,,,,tht,Polarized capacitor,capacitor/THT/other
+J1,1,RC_Bus_Connector,PinHeader_2x40_P2.54mm_Vertical,,,,tht,Generic RCBus connector,connector/pin_header_socket
+J2,1,Base Address,PinHeader_2x09_P2.54mm_Vertical,,,,tht,"Generic connector, double row, 02x09, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",connector/pin_header_socket
+J3,1,AudioJack3,Jack_3.5mm_CUI_SJ1-3525N_Horizontal,,,,tht,"Audio Jack, 3 Poles (Stereo / TRS)",
+"JP10, JP9",2,YM internal clock,PinHeader_1x02_P2.54mm_Vertical,,,,tht,"Jumper, 2-pole, open",connector/pin_header_socket
+L1,1,100uH,L_Radial_D8.7mm_P5.00mm_Fastron_07HCP,,,,tht,Inductor,choke_THT
+"R1, R2, R3, R4, R5, R6, R7, R8",8,150R,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,resistor/THT
+"R10, R11, R12, R9",4,1K5,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,resistor/THT
+"R13, R14, R15, R16",4,3K3,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,resistor/THT
+"R17, R18",2,510R,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,resistor/THT
+"R19, R20",2,10K,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,resistor/THT
+"R21, R22",2,22K,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,resistor/THT
+"R23, R24",2,1K,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,resistor/THT
+"U1, U2",2,74HCT138,DIP-16_W7.62mm_Socket_LongPads,,,,tht,"3-to-8 line decoder/multiplexer inverting, DIP-16/SOIC-16/SSOP-16",package/DIP/legacy
+U3,1,74HCT00,DIP-14_W7.62mm_Socket_LongPads,,,,tht,quad 2-input NAND gate,package/DIP/legacy
+"U4, U8",2,74HCT74,DIP-14_W7.62mm_Socket_LongPads,,,,tht,"Dual D Flip-flop, Set & Reset",package/DIP/legacy
+"U5, U6",2,YM2149,DIP-40_W15.24mm_Socket_LongPads,,,,tht,"Software-Controlled Sound Generator, DIP-40",package/DIP/legacy
+U7,1,74HCT30,DIP-14_W7.62mm_Socket_LongPads,,,,tht,8-input NAND,package/DIP/legacy
+U9,1,LM358,DIP-8_W7.62mm_Socket_LongPads,,,,tht,"Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8",package/DIP/legacy
+Y1,1,Oscillator,DIP-14_W7.62mm_Socket_LongPads,,,,tht,"HCMOS Crystal Clock Oscillator, DIP14-style metal package",package/DIP/legacy
