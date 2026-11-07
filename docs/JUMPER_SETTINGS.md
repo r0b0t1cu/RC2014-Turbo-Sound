@@ -24,21 +24,12 @@ Install **one J2 jumper only** in the selected position. The table shows the bas
 
 JP2 selects address bit A4. It chooses between the lower/even and upper/odd half of the address range selected by J2. For example, J2 11–12 with JP2 low selects `A0h`; JP2 high selects `B0h`. This lets the board use the other half if an I/O address conflicts with another device.
 
-JP2 performs the same A4 selection as JP5 on the [electrified RC2014 YM2149 board](https://github.com/electrified/rc2014-ym2149), but the jumper positions are reversed:
-
-| A4 selection | This board, JP2 | electrified board, JP5 |
-| --- | --- | --- |
-| Low / even (`A4=0`) | 1–2 | 2–3 |
-| High / odd (`A4=1`) | 2–3 | 1–2 |
-
 ## Addressing mode
 
-| Mode | J2 | JP1 | JP3 | JP4 | JP2 |
-| --- | --- | --- | --- | --- | --- |
-| MSX | 11–12 | 1–2 | 1–2 | 1–2 | 1–2 (low, `A4=0`) |
-| ZX Spectrum | 17–18 | 2–3 | 2–3 | 2–3 | A4 selection is not specified in the printed mode note |
-
-The board's printed legend describes the mode jumpers as follows:
+| Mode | J2 | JP1 | JP3 | JP4 |
+| --- | --- | --- | --- | --- |
+| MSX | 11–12 | 1–2 | 1–2 | 1–2 |
+| ZX Spectrum | 17–18 | 2–3 | 2–3 | 2–3 |
 
 - **JP1** selects the decode input: `A0` for MSX, `A14` for ZX Spectrum.
 - **JP3** selects the BC1 path: read at `A2h` for MSX, or `/RD` read at `FFFDh` for ZX Spectrum.
