@@ -4,7 +4,7 @@
 
 An original dual AY/YM TurboSound board for RC bus systems and compatible Z80 computers. The design combines two AY-compatible sound chips, a stereo audio output, selectable address decoding, and clock-source/divider options.
 
-The schematic and PCB were developed for this project. The compact DIP layout was designed to fit within the RC bus width while keeping the board height low.
+The schematic and PCB were developed for this project. The compact DIP layout was designed to fit within the RC bus width while keeping the board height acceptable.
 
 ## Features
 
