@@ -1,5 +1,7 @@
 # RC2014 Turbo Sound
 
+![Assembled RC2014 Turbo Sound dual AY board](docs/images/turbosound-board-photo.jpg)
+
 An original dual AY/YM TurboSound board for RC bus systems and compatible Z80 computers. The design combines two AY-compatible sound chips, a stereo audio output, selectable address decoding, and clock-source/divider options.
 
 The schematic and PCB were developed for this project. The compact DIP layout was designed to fit within the RC bus width while keeping the board height low.
@@ -25,6 +27,7 @@ TSPLAYER is the companion CP/M/RomWBW PT3 player: [r0b0t1cu/TSPLAYER](https://gi
 | --- | --- |
 | [`RC2014-Turbo-Sound-KiCad/`](RC2014-Turbo-Sound-KiCad/) | Editable KiCad schematic, PCB, project, and custom RC bus footprints |
 | [`docs/schematic.pdf`](docs/schematic.pdf) | Schematic PDF |
+| [`docs/images/turbosound-board-photo.jpg`](docs/images/turbosound-board-photo.jpg) | Photograph of the assembled board |
 | [`docs/images/board-top.png`](docs/images/board-top.png) | Top-side PCB render |
 | [`docs/images/board-bottom.png`](docs/images/board-bottom.png) | Bottom-side PCB render and silkscreen jumper legend |
 | [`docs/ibom.html`](docs/ibom.html) | Interactive bill of materials |
