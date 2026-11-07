@@ -39,7 +39,7 @@ Generated files are in [`production/2026-11-07-21-17-36/`](production/2026-11-07
 
 ## Design inspiration and credits
 
-The design was informed by the TurboSound interface concepts in [KTS](https://github.com/konkotgit/KTS) and the AY/YM sound-board work in [electrified/rc2014-ym2149](https://github.com/electrified/rc2014-ym2149). Those projects remain the work of their respective authors. The schematic implementation and PCB layout in this repository were developed for this board.
+The design was inspired by the TurboSound interface concepts in [KTS](https://github.com/konkotgit/KTS) and the AY/YM sound-board work in [electrified/rc2014-ym2149](https://github.com/electrified/rc2014-ym2149). Those projects remain the work of their respective authors. The schematic implementation and PCB layout in this repository were developed for this board.
 
 ## License
 
