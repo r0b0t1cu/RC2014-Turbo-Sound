@@ -20,7 +20,7 @@ The schematic and PCB were developed for this project. The compact DIP layout wa
 [![Watch the video](https://img.youtube.com/vi/59RYhwMF9T8/maxresdefault.jpg)](https://www.youtube.com/watch?v=59RYhwMF9T8)
 *Video demonstration of the project.*
 
----
+
 
 ## Compatibility
 
