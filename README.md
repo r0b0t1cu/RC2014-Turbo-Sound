@@ -15,6 +15,11 @@ The schematic and PCB were developed for this project. The compact DIP layout wa
 - Stereo audio output.
 - Two-row J1 RC bus connector footprint; one row provides the electrical connection and the additional row supports RC bus fit and mechanical stability.
 
+
+[![Watch the video](https://img.youtube.com/vi/59RYhwMF9T8/maxresdefault.jpg)](https://www.youtube.com/watch?v=59RYhwMF9T8)
+*Video demonstration of the project.*
+
+
 ## Compatibility
 
 Designed for RC bus / RC2014 systems, including compatible SC7xx RCBus computers. It can also be used with a ZX Spectrum through an appropriate adapter and matching software configuration.
