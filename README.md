@@ -1,6 +1,6 @@
 # RC2014 Turbo Sound
 
-![Assembled RC2014 Turbo Sound dual AY board](docs/images/turbosound-board-photo.jpg)
+![Assembled RC2014 Turbo Sound dual AY board](docs/images/IMG_2201.JPG)
 
 An original dual AY/YM TurboSound board for RC bus systems and compatible Z80 computers. The design combines two AY-compatible sound chips, a stereo audio output, selectable address decoding, and clock-source/divider options.
 
